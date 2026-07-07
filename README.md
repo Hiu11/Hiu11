@@ -64,16 +64,17 @@ const hieu = {
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiu11&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hiu11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hiu11&theme=github_dark" alt="Repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiu11&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hiu11/Hiu11/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiu11&theme=github_dark" alt="GitHub stats card" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiu11&theme=github_dark&utcOffset=7" alt="Productive time" />
 </p>
 
 ---
