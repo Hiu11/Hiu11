@@ -61,14 +61,27 @@ const hieu = {
 
 ---
 
-## GitHub Stats
+## Project Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&theme=github_dark&locale=vi" alt="Hiu11's GitHub stats" />
+  <img src="https://img.shields.io/badge/Public%20Projects-18-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Contributions-498-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-f59e0b?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&theme=github_dark&locale=vi" alt="Top languages by repo" />
+  <img src="https://img.shields.io/badge/JavaScript-CineSky%20%7C%20MindX-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript projects" />
+  <img src="https://img.shields.io/badge/TypeScript-SMILEE%20%7C%20CareerPath-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript projects" />
+  <img src="https://img.shields.io/badge/Vue-EduPress-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue project" />
 </p>
+
+| Area | What I have built |
+|---|---|
+| Movie booking | Full-stack ticket booking flow, admin dashboard, AI assistant, Vercel deployment |
+| Clinic management | Dental clinic management with modern full-stack TypeScript architecture |
+| Career roadmap | Frontend and backend for roadmap, quiz, progress tracking, auth, and dashboard APIs |
+| Teacher management | MERN app with pagination, position management, and avatar upload |
+| Online learning | EduPress learning platform with Vue 3, FastAPI, and PostgreSQL |
 
 ---
 
