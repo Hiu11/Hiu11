@@ -1,11 +1,16 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,45:14b8a6,100:f59e0b&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Full-stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Real%20Projects%20Builder&descAlign=50&descAlignY=60" alt="profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,45:14b8a6,100:f59e0b&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Fresher%20Frontend%20%7C%20Backend%20%7C%20Full-stack%20Developer&descAlign=50&descAlignY=60" alt="profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  I build responsive full-stack web apps, turn ideas into shipped products, and improve through real project feedback.
+  Fresher developer looking for Frontend, Backend, or Full-stack opportunities. I build responsive web apps, connect real APIs, and document projects clearly.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Fresher%20FE%20%7C%20BE%20%7C%20FS-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Open to Fresher FE BE FS roles" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City" />
 </p>
 
 <p align="center">
@@ -31,12 +36,13 @@
 
 ```ts
 const hieu = {
-  role: "Full-stack Developer",
+  role: "Fresher Frontend / Backend / Full-stack Developer",
   location: "Ho Chi Minh City, Vietnam",
-  strengths: ["Responsive UI", "React apps", "API integration", "Product thinking"],
+  targetRoles: ["Frontend Fresher", "Backend Fresher", "Full-stack Fresher"],
+  strengths: ["Responsive UI", "React apps", "REST API integration", "CRUD features", "Clean documentation"],
   mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
   expandingStack: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
-  workingStyle: "Build real products, ship often, then improve the details.",
+  workingStyle: "Build practical features, keep code readable, and improve from feedback.",
 };
 ```
 
@@ -182,7 +188,7 @@ const hieu = {
     </td>
     <td width="33%" valign="top" align="center">
       <h3>Backend</h3>
-      <p>Authentication, CRUD APIs, validation, MongoDB models, admin endpoints, and project deployment flow.</p>
+      <p>Authentication, CRUD APIs, validation, MongoDB models, admin endpoints, and deployment-ready setup.</p>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>Product</h3>
@@ -210,13 +216,13 @@ const hieu = {
   </tr>
   <tr>
     <td><strong>Q2</strong></td>
-    <td>Full-stack products</td>
+    <td>Portfolio projects</td>
     <td>Improve CineSky, SMILEE, and CareerPath with stronger flows, validation, and real user scenarios.</td>
   </tr>
   <tr>
     <td><strong>Q3</strong></td>
-    <td>Production readiness</td>
-    <td>Deployment, environment setup, error handling, loading states, and maintainable API structure.</td>
+    <td>Job readiness</td>
+    <td>Deployment, environment setup, error handling, loading states, and interview-ready documentation.</td>
   </tr>
   <tr>
     <td><strong>Q4</strong></td>
