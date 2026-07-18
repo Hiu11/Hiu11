@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  I build clean, responsive web pages and keep learning full-stack development through real projects.
+  I build responsive web apps, turn ideas into shipped products, and improve through real project feedback.
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 
 ```ts
 const hieu = {
-  name: "Do Trong Hieu",
-  location: "Ho Chi Minh City",
-  focus: ["Frontend UI", "Full-stack web apps", "Clean responsive pages"],
-  currentStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
-  learning: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
-  mindset: "Build from real projects, improve from real feedback.",
+  role: "Frontend Developer / Full-stack Learner",
+  location: "Ho Chi Minh City, Vietnam",
+  strengths: ["Responsive UI", "React apps", "API integration", "Product thinking"],
+  mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
+  learningNext: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
+  workingStyle: "Build real products, ship often, then improve the details.",
 };
 ```
 
@@ -50,54 +50,86 @@ const hieu = {
 
 ## Featured Projects
 
-| Project | Description | Tech | Live | Source |
-|---|---|---|---|---|
-| CineSky Movie Web | Full-stack movie ticket booking web app with admin dashboard, AI assistant, and Vercel deployment. | React, Express, MongoDB, JavaScript | [Live](https://cine-sky-fe.vercel.app/) | [Repo](https://github.com/Hiu11/CineSky-Movie-web) |
-| SMILEE | Full-stack dental clinic management system. | Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS, TypeScript | [Live](https://smilee-frontend.vercel.app/) | [Repo](https://github.com/Hiu11/SMILEE) |
-| CareerPath Frontend | Frontend for a career roadmap platform with dashboard progress tracking. | React, TypeScript, Vite, Vercel | [Live](https://fe-carrer-path-website.vercel.app/) | [Repo](https://github.com/Hiu11/FE_CarrerPath_Website) |
-| CareerPath Backend | Backend API for authentication, roadmap progress, profile, quiz, and dashboard APIs. | Express, TypeScript, MongoDB | - | [Repo](https://github.com/Hiu11/BE_CarrerPath_Website) |
-| MindX Fullstack Final Test | Teacher management MERN app with pagination, position management, and avatar upload. | React, Vite, Express, MongoDB, JavaScript | - | [Repo](https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST) |
-| EduPress | Online learning platform. | Vue 3, FastAPI, PostgreSQL | - | [Repo](https://github.com/Hiu11/EDUPRESS) |
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **CineSky Movie Web** | Movie ticket booking app with booking flow, admin dashboard, AI assistant, and production deployment. | React, Express, MongoDB, JavaScript | [Live](https://cine-sky-fe.vercel.app/) - [Repo](https://github.com/Hiu11/CineSky-Movie-web) |
+| **SMILEE** | Dental clinic management system with a modern full-stack TypeScript architecture. | Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS | [Live](https://smilee-frontend.vercel.app/) - [Repo](https://github.com/Hiu11/SMILEE) |
+| **CareerPath Frontend** | Career roadmap platform UI with dashboard progress tracking and learning flows. | React, TypeScript, Vite, Vercel | [Live](https://fe-carrer-path-website.vercel.app/) - [Repo](https://github.com/Hiu11/FE_CarrerPath_Website) |
+| **CareerPath Backend** | API for authentication, profile, quiz, roadmap progress, and dashboard data. | Express, TypeScript, MongoDB | [Repo](https://github.com/Hiu11/BE_CarrerPath_Website) |
+| **MindX Fullstack Final Test** | Teacher management MERN app with pagination, positions, and avatar upload. | React, Vite, Express, MongoDB | [Repo](https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST) |
+| **EduPress** | Online learning platform prototype built across frontend, API, and database layers. | Vue 3, FastAPI, PostgreSQL | [Repo](https://github.com/Hiu11/EDUPRESS) |
 
 ---
 
 ## Project Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Projects-18-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
-  <img src="https://img.shields.io/badge/Contributions-498-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Public%20Projects-19-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-f59e0b?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
+  <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-CineSky%20%7C%20MindX-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript projects" />
-  <img src="https://img.shields.io/badge/TypeScript-SMILEE%20%7C%20CareerPath-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript projects" />
-  <img src="https://img.shields.io/badge/Vue-EduPress-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue project" />
-</p>
-
-| Area | What I have built |
-|---|---|
-| Movie booking | Full-stack ticket booking flow, admin dashboard, AI assistant, Vercel deployment |
-| Clinic management | Dental clinic management with modern full-stack TypeScript architecture |
-| Career roadmap | Frontend and backend for roadmap, quiz, progress tracking, auth, and dashboard APIs |
-| Teacher management | MERN app with pagination, position management, and avatar upload |
-| Online learning | EduPress learning platform with Vue 3, FastAPI, and PostgreSQL |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend</h3>
+      <p>Responsive pages, reusable components, dashboard layouts, forms, routing, and API-connected UI.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend</h3>
+      <p>Authentication, CRUD APIs, validation, MongoDB models, admin endpoints, and project deployment flow.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Product</h3>
+      <p>Movie booking, clinic management, career roadmap, quiz flow, teacher management, and learning platform features.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 2026 Focus
 
-```mermaid
-flowchart LR
-  A[Frontend Foundation] --> B[Full-stack Products]
-  B --> C[Deployment & Production]
-  C --> D[Better UX]
-  D --> E[Clean Architecture]
+<table>
+  <tr>
+    <th align="left">Quarter</th>
+    <th align="left">Focus</th>
+    <th align="left">Concrete Outcome</th>
+  </tr>
+  <tr>
+    <td><strong>Q1</strong></td>
+    <td>Frontend foundation</td>
+    <td>Sharper React + TypeScript components, cleaner UI states, better responsive layouts.</td>
+  </tr>
+  <tr>
+    <td><strong>Q2</strong></td>
+    <td>Full-stack products</td>
+    <td>Improve CineSky, SMILEE, and CareerPath with stronger flows, validation, and real user scenarios.</td>
+  </tr>
+  <tr>
+    <td><strong>Q3</strong></td>
+    <td>Production readiness</td>
+    <td>Deployment, environment setup, error handling, loading states, and maintainable API structure.</td>
+  </tr>
+  <tr>
+    <td><strong>Q4</strong></td>
+    <td>Clean architecture</td>
+    <td>Reusable modules, better folder structure, clearer documentation, and polished portfolio projects.</td>
+  </tr>
+</table>
 
-  B --> F[CineSky]
-  B --> G[SMILEE]
-  B --> H[CareerPath]
-```
+<p align="center">
+  <strong>Current direction:</strong> build fewer vague demos and more complete, explainable products.
+</p>
+
+---
+
+## What I Am Improving Now
+
+- Turning project features into polished user flows, not just working screens.
+- Writing cleaner TypeScript and separating UI, API, and business logic more clearly.
+- Practicing deployment, environment config, production bugs, and project documentation.
+- Building portfolio projects that are easy to understand from the first 30 seconds.
 
 ---
 
