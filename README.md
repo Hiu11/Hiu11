@@ -31,7 +31,7 @@
 
 ```ts
 const hieu = {
-  role: "Frontend Developer / Full-stack Learner",
+  role: "Frontend Developer / Full-stack Developer",
   location: "Ho Chi Minh City, Vietnam",
   strengths: ["Responsive UI", "React apps", "API integration", "Product thinking"],
   mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
