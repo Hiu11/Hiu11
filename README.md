@@ -43,7 +43,50 @@ const hieu = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,express,nestjs,mongodb,postgres,prisma,fastapi,git,github,vercel,vscode" alt="tech stack" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Tech%20Stack&fontSize=34&fontColor=ffffff" alt="Tech Stack" />
+</p>
+
+<h2>đŸ› ï¸ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&perline=8" alt="tech stack icons" />
+</p>
+
+<br />
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-4b74a8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-f0db4f?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GO-5eb5d9?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%23-4f8b3b?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+</p>
+
+<h3 align="center">Frameworks & Backend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-579645?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FASTAPI-4d9b8c?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/.NET-5733c7?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+
+<h3 align="center">Databases & DevOps</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/POSTGRESQL-5266dc?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MONGODB-5d9a50?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DOCKER-5a9be8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LINUX-f4cd4c?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+</p>
+
+<h3 align="center">AI / ML</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTORCH-d95a3b?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-f07a2b?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 ---
