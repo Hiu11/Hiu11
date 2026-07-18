@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,45:14b8a6,100:f59e0b&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20Full-stack%20Learner%20%7C%20Real%20Projects%20Builder&descAlign=50&descAlignY=60" alt="profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,45:14b8a6,100:f59e0b&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Full-stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Real%20Projects%20Builder&descAlign=50&descAlignY=60" alt="profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  I build responsive web apps, turn ideas into shipped products, and improve through real project feedback.
+  I build responsive full-stack web apps, turn ideas into shipped products, and improve through real project feedback.
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@
 
 ```ts
 const hieu = {
-  role: "Frontend Developer / Full-stack Developer",
+  role: "Full-stack Developer",
   location: "Ho Chi Minh City, Vietnam",
   strengths: ["Responsive UI", "React apps", "API integration", "Product thinking"],
   mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
-  learningNext: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
+  expandingStack: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
   workingStyle: "Build real products, ship often, then improve the details.",
 };
 ```
