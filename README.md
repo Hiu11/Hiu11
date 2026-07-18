@@ -5,6 +5,10 @@
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=760&lines=Fresher+Frontend+Developer;Fresher+Backend+Developer;Fresher+Full-stack+Developer;React+%2B+Express+%2B+MongoDB+Projects" alt="typing profile title" />
+</p>
+
+<p align="center">
   Fresher developer looking for Frontend, Backend, or Full-stack opportunities. I build responsive web apps, connect real APIs, and document projects clearly.
 </p>
 
@@ -45,6 +49,23 @@ const hieu = {
   workingStyle: "Build practical features, keep code readable, and improve from feedback.",
 };
 ```
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Frontend</h3>
+      <p>React, TypeScript, responsive UI, form handling, routing, dashboards, and API-connected pages.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Backend</h3>
+      <p>Express APIs, authentication, validation, CRUD flows, MongoDB models, and admin endpoints.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Full-stack</h3>
+      <p>End-to-end features from UI to database, deployed demos, README docs, and practical product flows.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,6 +112,12 @@ const hieu = {
 <p align="center">
   <img src="https://img.shields.io/badge/PYTORCH-d95a3b?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TENSORFLOW-f07a2b?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Builds-Responsive%20UI-2563eb?style=for-the-badge" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Connects-REST%20APIs-14b8a6?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Writes-Clean%20Docs-f59e0b?style=for-the-badge" alt="Clean Docs" />
 </p>
 
 ---
@@ -180,6 +207,11 @@ const hieu = {
   <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=334155&bg_color=ffffff" alt="Hiu11 GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&hide_border=true&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Hiu11 top languages" />
+</p>
+
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
@@ -243,14 +275,36 @@ const hieu = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">Turning project features into polished user flows, not just working screens.</td>
-    <td width="50%" valign="top">Writing cleaner TypeScript and separating UI, API, and business logic more clearly.</td>
+    <td width="50%" valign="top"><strong>Portfolio polish</strong><br />Turning project features into polished user flows, not just working screens.</td>
+    <td width="50%" valign="top"><strong>Code structure</strong><br />Writing cleaner TypeScript and separating UI, API, and business logic more clearly.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">Practicing deployment, environment config, production bugs, and project documentation.</td>
-    <td width="50%" valign="top">Building portfolio projects that are easy to understand from the first 30 seconds.</td>
+    <td width="50%" valign="top"><strong>Deployment</strong><br />Practicing deployment, environment config, production bugs, and project documentation.</td>
+    <td width="50%" valign="top"><strong>Recruiter-ready projects</strong><br />Building portfolio projects that are easy to understand from the first 30 seconds.</td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Contact&fontSize=34&fontColor=ffffff" alt="Contact" />
+</p>
+
+<p align="center">
+  <a href="mailto:Tronghieudo2k4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Tronghieudo2k4%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Hiu11">
+    <img src="https://img.shields.io/badge/GitHub-Hiu11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://cine-sky-fe.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-CineSky-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio demo" />
+  </a>
+</p>
+
+<p align="center">
+  Available for Fresher Frontend, Backend, and Full-stack roles in Ho Chi Minh City or remote-friendly teams.
+</p>
 
 ---
 
