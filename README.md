@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2563eb,45:14b8a6,100:f59e0b&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Fresher%20Frontend%20%7C%20Backend%20%7C%20Full-stack%20Developer&descAlign=50&descAlignY=60" alt="profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2B1208,45:A44A2A,100:C27A32&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Fresher%20Frontend%20%7C%20Backend%20%7C%20Full-stack%20Developer&descAlign=50&descAlignY=60" alt="profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=760&lines=Fresher+Frontend+Developer;Fresher+Backend+Developer;Fresher+Full-stack+Developer;React+%2B+Express+%2B+MongoDB+Projects" alt="typing profile title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=A44A2A&center=true&vCenter=true&width=760&lines=Fresher+Frontend+Developer;Fresher+Backend+Developer;Fresher+Full-stack+Developer;React+%2B+Express+%2B+MongoDB+Projects" alt="typing profile title" />
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Fresher%20FE%20%7C%20BE%20%7C%20FS-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Open to Fresher FE BE FS roles" />
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City" />
+  <img src="https://img.shields.io/badge/Open%20to-Fresher%20FE%20%7C%20BE%20%7C%20FS-A44A2A?style=for-the-badge&logo=github&logoColor=white" alt="Open to Fresher FE BE FS roles" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-C27A32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City" />
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
     <img src="https://img.shields.io/badge/GitHub-Hiu11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://cine-sky-fe.vercel.app/">
-    <img src="https://img.shields.io/badge/CineSky-Live-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="CineSky live" />
+    <img src="https://img.shields.io/badge/CineSky-Live-385A63?style=for-the-badge&logo=vercel&logoColor=white" alt="CineSky live" />
   </a>
   <a href="https://smilee-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/SMILEE-Live-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="SMILEE live" />
+    <img src="https://img.shields.io/badge/SMILEE-Live-A44A2A?style=for-the-badge&logo=vercel&logoColor=white" alt="SMILEE live" />
   </a>
   <a href="https://fe-carrer-path-website.vercel.app/">
-    <img src="https://img.shields.io/badge/CareerPath-Live-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath live" />
+    <img src="https://img.shields.io/badge/CareerPath-Live-C27A32?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath live" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=About%20Me&fontSize=34&fontColor=ffffff" alt="About Me" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=About%20Me&fontSize=34&fontColor=ffffff" alt="About Me" />
 </p>
 
 ```ts
@@ -70,7 +70,7 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Tech%20Stack&fontSize=34&fontColor=ffffff" alt="Tech Stack" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=Tech%20Stack&fontSize=34&fontColor=ffffff" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -82,48 +82,48 @@ const hieu = {
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-4b74a8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-f0db4f?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GO-5eb5d9?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PYTHON-385A63?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-C27A32?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GO-385A63?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%23-4f8b3b?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/C%23-41513A?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
 </p>
 
 <h3 align="center">Frameworks & Backend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REACT-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/NODE.JS-579645?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FASTAPI-4d9b8c?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/.NET-5733c7?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/REACT-2B1208?style=for-the-badge&logo=react&logoColor=C27A32" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-41513A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FASTAPI-385A63?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/.NET-A44A2A?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 <h3 align="center">Databases & DevOps</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POSTGRESQL-5266dc?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MONGODB-5d9a50?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/DOCKER-5a9be8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/LINUX-f4cd4c?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-385A63?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MONGODB-41513A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DOCKER-385A63?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LINUX-C27A32?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
 </p>
 
 <h3 align="center">AI / ML</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTORCH-d95a3b?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-f07a2b?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PYTORCH-A44A2A?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-C27A32?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Builds-Responsive%20UI-2563eb?style=for-the-badge" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/Connects-REST%20APIs-14b8a6?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Writes-Clean%20Docs-f59e0b?style=for-the-badge" alt="Clean Docs" />
+  <img src="https://img.shields.io/badge/Builds-Responsive%20UI-385A63?style=for-the-badge" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Connects-REST%20APIs-A44A2A?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Writes-Clean%20Docs-C27A32?style=for-the-badge" alt="Clean Docs" />
 </p>
 
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Featured%20Projects&fontSize=34&fontColor=ffffff" alt="Featured Projects" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=Featured%20Projects&fontSize=34&fontColor=ffffff" alt="Featured Projects" />
 </p>
 
 <table>
@@ -132,9 +132,9 @@ const hieu = {
       <h3>CineSky Movie Web</h3>
       <p>Movie ticket booking app with booking flow, admin dashboard, AI assistant, and production deployment.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/React-2B1208?style=flat-square&logo=react&logoColor=C27A32" alt="React" />
         <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MongoDB-41513A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
       <p><a href="https://cine-sky-fe.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/CineSky-Movie-web">Repo</a></p>
     </td>
@@ -143,8 +143,8 @@ const hieu = {
       <p>Dental clinic management system with a modern full-stack TypeScript architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-        <img src="https://img.shields.io/badge/PostgreSQL-5266dc?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/NestJS-A44A2A?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-385A63?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <p><a href="https://smilee-frontend.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/SMILEE">Repo</a></p>
     </td>
@@ -154,9 +154,9 @@ const hieu = {
       <h3>CareerPath Frontend</h3>
       <p>Career roadmap platform UI with dashboard progress tracking and learning flows.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/React-2B1208?style=flat-square&logo=react&logoColor=C27A32" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-385A63?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-A44A2A?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
       <p><a href="https://fe-carrer-path-website.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/FE_CarrerPath_Website">Repo</a></p>
     </td>
@@ -165,8 +165,8 @@ const hieu = {
       <p>API for authentication, profile, quiz, roadmap progress, and dashboard data.</p>
       <p>
         <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/TypeScript-385A63?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-41513A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
       <p><a href="https://github.com/Hiu11/BE_CarrerPath_Website">Repo</a></p>
     </td>
@@ -176,9 +176,9 @@ const hieu = {
       <h3>MindX Fullstack Final Test</h3>
       <p>Teacher management MERN app with pagination, positions, and avatar upload.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/React-2B1208?style=flat-square&logo=react&logoColor=C27A32" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-A44A2A?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/MongoDB-41513A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
       <p><a href="https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST">Repo</a></p>
     </td>
@@ -186,9 +186,9 @@ const hieu = {
       <h3>EduPress</h3>
       <p>Online learning platform prototype built across frontend, API, and database layers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
-        <img src="https://img.shields.io/badge/FastAPI-4d9b8c?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL-5266dc?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Vue_3-41513A?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/FastAPI-385A63?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-385A63?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <p><a href="https://github.com/Hiu11/EDUPRESS">Repo</a></p>
     </td>
@@ -198,18 +198,18 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Project%20Snapshot&fontSize=34&fontColor=ffffff" alt="Project Snapshot" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=Project%20Snapshot&fontSize=34&fontColor=ffffff" alt="Project Snapshot" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Projects-19-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
-  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-f59e0b?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
-  <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
+  <img src="https://img.shields.io/badge/Public%20Projects-19-385A63?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-C27A32?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
+  <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-A44A2A?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=334155&bg_color=ffffff" alt="Hiu11 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&hide_border=true&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Hiu11 top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&hide_border=true&title_color=A44A2A&icon_color=C27A32&text_color=2B1208&bg_color=FBF7F0" alt="Hiu11 GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&hide_border=true&title_color=A44A2A&text_color=2B1208&bg_color=FBF7F0" alt="Hiu11 top languages" />
 </p>
 
 <table>
@@ -232,7 +232,7 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=2026%20Focus&fontSize=34&fontColor=ffffff" alt="2026 Focus" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=2026%20Focus&fontSize=34&fontColor=ffffff" alt="2026 Focus" />
 </p>
 
 <table>
@@ -270,7 +270,7 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Improving%20Now&fontSize=34&fontColor=ffffff" alt="Improving Now" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=Improving%20Now&fontSize=34&fontColor=ffffff" alt="Improving Now" />
 </p>
 
 <table>
@@ -287,18 +287,18 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Contact&fontSize=34&fontColor=ffffff" alt="Contact" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B1208,100:A44A2A&text=Contact&fontSize=34&fontColor=ffffff" alt="Contact" />
 </p>
 
 <p align="center">
   <a href="mailto:Tronghieudo2k4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Tronghieudo2k4%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Tronghieudo2k4%40gmail.com-385A63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Hiu11">
     <img src="https://img.shields.io/badge/GitHub-Hiu11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://cine-sky-fe.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-CineSky-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio demo" />
+    <img src="https://img.shields.io/badge/Portfolio-CineSky-C27A32?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio demo" />
   </a>
 </p>
 
@@ -309,9 +309,9 @@ const hieu = {
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:14b8a6,100:2563eb&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff" alt="thanks banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:A44A2A,100:2B1208&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff" alt="thanks banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiu11&style=for-the-badge&color=2563eb" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hiu11&style=for-the-badge&color=A44A2A" alt="profile views" />
 </p>
