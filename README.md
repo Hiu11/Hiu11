@@ -25,7 +25,9 @@
 
 ---
 
-## About Me
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=About%20Me&fontSize=34&fontColor=ffffff" alt="About Me" />
+</p>
 
 ```ts
 const hieu = {
@@ -40,13 +42,9 @@ const hieu = {
 
 ---
 
-## Tech Stack
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Tech%20Stack&fontSize=34&fontColor=ffffff" alt="Tech Stack" />
 </p>
-
-<h2>đŸ› ï¸ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&perline=8" alt="tech stack icons" />
@@ -91,20 +89,84 @@ const hieu = {
 
 ---
 
-## Featured Projects
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Featured%20Projects&fontSize=34&fontColor=ffffff" alt="Featured Projects" />
+</p>
 
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **CineSky Movie Web** | Movie ticket booking app with booking flow, admin dashboard, AI assistant, and production deployment. | React, Express, MongoDB, JavaScript | [Live](https://cine-sky-fe.vercel.app/) - [Repo](https://github.com/Hiu11/CineSky-Movie-web) |
-| **SMILEE** | Dental clinic management system with a modern full-stack TypeScript architecture. | Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS | [Live](https://smilee-frontend.vercel.app/) - [Repo](https://github.com/Hiu11/SMILEE) |
-| **CareerPath Frontend** | Career roadmap platform UI with dashboard progress tracking and learning flows. | React, TypeScript, Vite, Vercel | [Live](https://fe-carrer-path-website.vercel.app/) - [Repo](https://github.com/Hiu11/FE_CarrerPath_Website) |
-| **CareerPath Backend** | API for authentication, profile, quiz, roadmap progress, and dashboard data. | Express, TypeScript, MongoDB | [Repo](https://github.com/Hiu11/BE_CarrerPath_Website) |
-| **MindX Fullstack Final Test** | Teacher management MERN app with pagination, positions, and avatar upload. | React, Vite, Express, MongoDB | [Repo](https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST) |
-| **EduPress** | Online learning platform prototype built across frontend, API, and database layers. | Vue 3, FastAPI, PostgreSQL | [Repo](https://github.com/Hiu11/EDUPRESS) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CineSky Movie Web</h3>
+      <p>Movie ticket booking app with booking flow, admin dashboard, AI assistant, and production deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p><a href="https://cine-sky-fe.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/CineSky-Movie-web">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SMILEE</h3>
+      <p>Dental clinic management system with a modern full-stack TypeScript architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-5266dc?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p><a href="https://smilee-frontend.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/SMILEE">Repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CareerPath Frontend</h3>
+      <p>Career roadmap platform UI with dashboard progress tracking and learning flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <p><a href="https://fe-carrer-path-website.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/FE_CarrerPath_Website">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CareerPath Backend</h3>
+      <p>API for authentication, profile, quiz, roadmap progress, and dashboard data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p><a href="https://github.com/Hiu11/BE_CarrerPath_Website">Repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MindX Fullstack Final Test</h3>
+      <p>Teacher management MERN app with pagination, positions, and avatar upload.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/MongoDB-5d9a50?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p><a href="https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>EduPress</h3>
+      <p>Online learning platform prototype built across frontend, API, and database layers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/FastAPI-4d9b8c?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-5266dc?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p><a href="https://github.com/Hiu11/EDUPRESS">Repo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Project Snapshot
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Project%20Snapshot&fontSize=34&fontColor=ffffff" alt="Project Snapshot" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Projects-19-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
@@ -114,15 +176,15 @@ const hieu = {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>Frontend</h3>
       <p>Responsive pages, reusable components, dashboard layouts, forms, routing, and API-connected UI.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>Backend</h3>
       <p>Authentication, CRUD APIs, validation, MongoDB models, admin endpoints, and project deployment flow.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>Product</h3>
       <p>Movie booking, clinic management, career roadmap, quiz flow, teacher management, and learning platform features.</p>
     </td>
@@ -131,7 +193,9 @@ const hieu = {
 
 ---
 
-## 2026 Focus
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=2026%20Focus&fontSize=34&fontColor=ffffff" alt="2026 Focus" />
+</p>
 
 <table>
   <tr>
@@ -167,17 +231,25 @@ const hieu = {
 
 ---
 
-## What I Am Improving Now
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:654ea3,100:55679c&text=Improving%20Now&fontSize=34&fontColor=ffffff" alt="Improving Now" />
+</p>
 
-- Turning project features into polished user flows, not just working screens.
-- Writing cleaner TypeScript and separating UI, API, and business logic more clearly.
-- Practicing deployment, environment config, production bugs, and project documentation.
-- Building portfolio projects that are easy to understand from the first 30 seconds.
+<table>
+  <tr>
+    <td width="50%" valign="top">Turning project features into polished user flows, not just working screens.</td>
+    <td width="50%" valign="top">Writing cleaner TypeScript and separating UI, API, and business logic more clearly.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">Practicing deployment, environment config, production bugs, and project documentation.</td>
+    <td width="50%" valign="top">Building portfolio projects that are easy to understand from the first 30 seconds.</td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:14b8a6,100:2563eb&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff" alt="thanks banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:14b8a6,100:2563eb&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff" alt="thanks banner" />
 </p>
 
 <p align="center">
