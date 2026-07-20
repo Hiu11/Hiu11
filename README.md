@@ -207,10 +207,26 @@ const hieu = {
   <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-A44A2A?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiu11&show_icons=true&hide_border=true&title_color=A44A2A&icon_color=C27A32&text_color=2B1208&bg_color=FBF7F0" alt="Hiu11 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiu11&layout=compact&hide_border=true&title_color=A44A2A&text_color=2B1208&bg_color=FBF7F0" alt="Hiu11 top languages" />
-</p>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <strong>19</strong><br />
+      Public Projects
+    </td>
+    <td width="25%" align="center">
+      <strong>FE</strong><br />
+      React, TypeScript, Vite
+    </td>
+    <td width="25%" align="center">
+      <strong>BE</strong><br />
+      Express, MongoDB, APIs
+    </td>
+    <td width="25%" align="center">
+      <strong>FS</strong><br />
+      Auth, Admin, Deployment
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
