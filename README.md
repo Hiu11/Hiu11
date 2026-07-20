@@ -1,19 +1,19 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2B1208,45:A44A2A,100:C27A32&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Fresher%20Frontend%20%7C%20Backend%20%7C%20Full-stack%20Developer&descAlign=50&descAlignY=60" alt="profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2B1208,45:A44A2A,100:C27A32&text=Do%20Trong%20Hieu&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&desc=Frontend%20%7C%20Backend%20%7C%20Full-stack%20Developer&descAlign=50&descAlignY=60" alt="profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=A44A2A&center=true&vCenter=true&width=760&lines=Fresher+Frontend+Developer;Fresher+Backend+Developer;Fresher+Full-stack+Developer;React+%2B+Express+%2B+MongoDB+Projects" alt="typing profile title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=A44A2A&center=true&vCenter=true&width=760&lines=Frontend+Developer;Backend+Developer;Full-stack+Developer;React+%2B+Express+%2B+MongoDB+Projects" alt="typing profile title" />
 </p>
 
 <p align="center">
-  Fresher developer looking for Frontend, Backend, or Full-stack opportunities. I build responsive web apps, connect real APIs, and document projects clearly.
+  Developer looking for Frontend, Backend, or Full-stack opportunities. I build responsive web apps, connect real APIs, and document projects clearly.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Fresher%20FE%20%7C%20BE%20%7C%20FS-A44A2A?style=for-the-badge&logo=github&logoColor=white" alt="Open to Fresher FE BE FS roles" />
+  <img src="https://img.shields.io/badge/Open%20to-FE%20%7C%20BE%20%7C%20FS-A44A2A?style=for-the-badge&logo=github&logoColor=white" alt="Open to FE BE FS roles" />
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-C27A32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City" />
 </p>
 
@@ -40,9 +40,9 @@
 
 ```ts
 const hieu = {
-  role: "Fresher Frontend / Backend / Full-stack Developer",
+  role: "Frontend / Backend / Full-stack Developer",
   location: "Ho Chi Minh City, Vietnam",
-  targetRoles: ["Frontend Fresher", "Backend Fresher", "Full-stack Fresher"],
+  targetRoles: ["Frontend Developer", "Backend Developer", "Full-stack Developer"],
   strengths: ["Responsive UI", "React apps", "REST API integration", "CRUD features", "Clean documentation"],
   mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
   expandingStack: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
@@ -319,7 +319,7 @@ const hieu = {
 </p>
 
 <p align="center">
-  Available for Fresher Frontend, Backend, and Full-stack roles in Ho Chi Minh City or remote-friendly teams.
+  Available for Frontend, Backend, and Full-stack roles in Ho Chi Minh City or remote-friendly teams.
 </p>
 
 ---
