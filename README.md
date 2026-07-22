@@ -13,11 +13,6 @@
 </p>
 
 <p align="center">
-  <strong>Latest deployed project:</strong>
-  <a href="https://fe-carrer-path-website.vercel.app/">CareerPath Website</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20to-FE%20%7C%20BE%20%7C%20FS-A44A2A?style=for-the-badge&logo=github&logoColor=white" alt="Open to FE BE FS roles" />
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-C27A32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City" />
 </p>
@@ -157,7 +152,7 @@ const hieu = {
   <tr>
     <td width="50%" valign="top">
       <h3>CareerPath Frontend</h3>
-      <p>Career roadmap platform UI with dashboard progress tracking, quizzes, learning flows, and a deployed demo.</p>
+      <p>Career roadmap platform UI with dashboard progress tracking and learning flows.</p>
       <p>
         <img src="https://img.shields.io/badge/React-2B1208?style=flat-square&logo=react&logoColor=C27A32" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-385A63?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
