@@ -30,6 +30,9 @@
   <a href="https://fe-carrer-path-website.vercel.app/">
     <img src="https://img.shields.io/badge/CareerPath-Live-C27A32?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath live" />
   </a>
+  <a href="https://edupress-lms.vercel.app/">
+    <img src="https://img.shields.io/badge/EduPress-Live-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="EduPress live" />
+  </a>
 </p>
 
 ---
@@ -190,7 +193,7 @@ const hieu = {
         <img src="https://img.shields.io/badge/FastAPI-385A63?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/PostgreSQL-385A63?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
-      <p><a href="https://github.com/Hiu11/EDUPRESS">Repo</a></p>
+      <p><a href="https://edupress-lms.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/edupress">Repo</a></p>
     </td>
   </tr>
 </table>
