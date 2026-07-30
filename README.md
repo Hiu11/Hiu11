@@ -43,12 +43,12 @@
 
 ```ts
 const hieu = {
-  role: "Frontend / Backend / Full-stack Developer",
+  role: "Software Engineer (Full-stack / DevOps)",
   location: "Ho Chi Minh City, Vietnam",
-  targetRoles: ["Frontend Developer", "Backend Developer", "Full-stack Developer"],
-  strengths: ["Responsive UI", "React apps", "REST API integration", "CRUD features", "Clean documentation"],
-  mainStack: ["React", "TypeScript", "Vite", "Tailwind CSS", "Express", "MongoDB"],
-  expandingStack: ["Next.js", "NestJS", "Prisma", "PostgreSQL", "FastAPI", "Vue 3"],
+  targetRoles: ["Frontend Developer", "Backend Developer", "Full-stack Developer", "DevOps Engineer"],
+  strengths: ["Responsive UI", "REST API integration", "Event-Driven Architecture", "Serverless AI", "Clean documentation"],
+  mainStack: ["React", "TypeScript", "Tailwind CSS", "Express", "MongoDB", "PostgreSQL", "Redis"],
+  expandingStack: ["Next.js", "NestJS", "FastAPI", "Vue 3", "Docker", "Playwright (AI Testing)"],
   workingStyle: "Build practical features, keep code readable, and improve from feedback.",
 };
 ```
@@ -64,11 +64,72 @@ const hieu = {
       <p>Express APIs, authentication, validation, CRUD flows, MongoDB models, and admin endpoints.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>Full-stack</h3>
-      <p>End-to-end features from UI to database, deployed demos, README docs, and practical product flows.</p>
+      <h3>DevOps & Systems</h3>
+      <p>Serverless GPU inference (Modal), Event Sourcing (Redis), Edge CDN (Vercel), AI E2E Testing.</p>
     </td>
   </tr>
 </table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express,nestjs,mongodb,postgres,prisma,fastapi,redis,docker,git,github,vercel,vscode" alt="tech stack" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech | Live | Source |
+|---|---|---|---|---|
+| CineSky Movie Web | Full-stack movie ticket booking web app with admin dashboard, AI assistant, and Vercel deployment. | React, Express, MongoDB, JavaScript | [Live](https://cine-sky-fe.vercel.app/) | [Repo](https://github.com/Hiu11/CineSky-Movie-web) |
+| SMILEE | Full-stack dental clinic management system. | Next.js, NestJS, Prisma, PostgreSQL, Tailwind CSS, TypeScript | [Live](https://smilee-frontend.vercel.app/) | [Repo](https://github.com/Hiu11/SMILEE) |
+| CareerPath Frontend | Frontend for a career roadmap platform with dashboard progress tracking. | React, TypeScript, Vite, Vercel | [Live](https://fe-carrer-path-website.vercel.app/) | [Repo](https://github.com/Hiu11/FE_CarrerPath_Website) |
+| CareerPath Backend | Backend API for authentication, roadmap progress, profile, quiz, and dashboard APIs. | Express, TypeScript, MongoDB | - | [Repo](https://github.com/Hiu11/BE_CarrerPath_Website) |
+| MindX Fullstack Final Test | Teacher management MERN app with pagination, position management, and avatar upload. | React, Vite, Express, MongoDB, JavaScript | - | [Repo](https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST) |
+| EduPress | Enterprise Online Learning Platform with CQRS, Event Sourcing, Serverless GPU (Modal Whisper), Global Edge CDN, and Real-time SSE | Nuxt 3, FastAPI, Redis, PostgreSQL, Playwright | [Live](https://edupress.vercel.app/) | [Repo](https://github.com/Hiu11/EDUPRESS) |
+
+---
+
+## Project Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Projects-18-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Contributions-498-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-f59e0b?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-CineSky%20%7C%20MindX-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript projects" />
+  <img src="https://img.shields.io/badge/TypeScript-SMILEE%20%7C%20CareerPath-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript projects" />
+  <img src="https://img.shields.io/badge/Vue-EduPress-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue project" />
+</p>
+
+| Area | What I have built |
+|---|---|
+| Movie booking | Full-stack ticket booking flow, admin dashboard, AI assistant, Vercel deployment |
+| Clinic management | Dental clinic management with modern full-stack TypeScript architecture |
+| Career roadmap | Frontend and backend for roadmap, quiz, progress tracking, auth, and dashboard APIs |
+| Teacher management | MERN app with pagination, position management, and avatar upload |
+| Online learning | Enterprise EduPress platform with Event Sourcing, Real-time SSE, Serverless GPU (Whisper AI), and AI E2E Testing |
+
+---
+
+## 2026 Focus
+
+```mermaid
+flowchart LR
+  A[Frontend Foundation] --> B[Full-stack Products]
+  B --> C[Deployment & Production]
+  C --> D[Better UX]
+  D --> E[Clean Architecture]
+
+  B --> F[CineSky]
+  B --> G[SMILEE]
+  B --> H[CareerPath]
+```
 
 ---
 
