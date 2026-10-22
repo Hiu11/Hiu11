@@ -122,20 +122,17 @@ const hieu = {
 
 ---
 
-## 2026 Focus
+## Định hướng phát triển năm 2026
 
-```mermaid
-flowchart LR
-  A[Frontend Foundation] --> B[Full-stack Products]
-  B --> C[Deployment & Production]
-  C --> D[Better UX]
-  D --> E[Clean Architecture]
+Tập trung hoàn thiện các dự án đang có: dễ sử dụng, hoạt động ổn định và giải quyết được nhu cầu thực tế.
 
-  B --> F[CineSky]
-  B --> G[SMILEE]
-  B --> H[CareerPath]
-  B --> I[SHOP HOA HAU]
-```
+| Mục tiêu | Việc cần làm | Dự án áp dụng |
+|---|---|---|
+| Giao diện dễ sử dụng | Căn bố cục rõ ràng, hiển thị tốt trên điện thoại và giảm thao tác thừa. | Tất cả dự án |
+| Hoàn thiện chức năng | Kết nối giao diện với máy chủ và dữ liệu; xử lý đầy đủ trạng thái tải, thành công và lỗi. | CineSky, SMILEE, CareerPath |
+| Website chạy ổn định | Kiểm tra cấu hình triển khai, đường dẫn và các luồng chính sau mỗi lần cập nhật. | Các dự án đã đưa lên web |
+| Form báo giá thuận tiện | Gợi ý địa chỉ, báo rõ ô cần sửa, chọn giờ liên hệ và gửi thông báo qua email. | SHOP HOA HẬU |
+| Code dễ bảo trì | Tách từng chức năng thành phần nhỏ, đặt tên dễ hiểu và cập nhật hướng dẫn dự án. | Tất cả dự án |
 
 ---
 
