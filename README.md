@@ -33,6 +33,9 @@
   <a href="https://edupress-lms.vercel.app/">
     <img src="https://img.shields.io/badge/EduPress-Live-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="EduPress live" />
   </a>
+  <a href="https://shop-hoa-hau.vercel.app/">
+    <img src="https://img.shields.io/badge/SHOP%20HOA%20HAU-Live-41513A?style=for-the-badge&logo=vercel&logoColor=white" alt="SHOP HOA HẬU live" />
+  </a>
 </p>
 
 ---
@@ -90,19 +93,20 @@ const hieu = {
 | CareerPath Backend | Backend API for authentication, roadmap progress, profile, quiz, and dashboard APIs. | Express, TypeScript, MongoDB | - | [Repo](https://github.com/Hiu11/BE_CarrerPath_Website) |
 | MindX Fullstack Final Test | Teacher management MERN app with pagination, position management, and avatar upload. | React, Vite, Express, MongoDB, JavaScript | - | [Repo](https://github.com/Hiu11/MINDX_FULLSTACK_FINAL_TEST) |
 | EduPress | Enterprise Online Learning Platform with CQRS, Event Sourcing, Serverless GPU (Modal Whisper), Global Edge CDN, and Real-time SSE | Nuxt 3, FastAPI, Redis, PostgreSQL, Playwright | [Live](https://edupress.vercel.app/) | [Repo](https://github.com/Hiu11/EDUPRESS) |
+| SHOP HOA HẬU | Wholesale flower website with a color-filtered catalog, address suggestions, quote scheduling, and email notifications. | JavaScript, Vite, Node.js, Vercel Functions, Vercel Blob | [Live](https://shop-hoa-hau.vercel.app/) | [Repo](https://github.com/Hiu11/SHOP-HOA-HAU) |
 
 ---
 
 ## Project Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Projects-18-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Public%20Projects-20-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
   <img src="https://img.shields.io/badge/Contributions-498-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-f59e0b?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-CineSky%20%7C%20MindX-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript projects" />
+  <img src="https://img.shields.io/badge/JavaScript-CineSky%20%7C%20MindX%20%7C%20SHOP%20HOA%20HAU-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript projects" />
   <img src="https://img.shields.io/badge/TypeScript-SMILEE%20%7C%20CareerPath-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript projects" />
   <img src="https://img.shields.io/badge/Vue-EduPress-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue project" />
 </p>
@@ -114,6 +118,7 @@ const hieu = {
 | Career roadmap | Frontend and backend for roadmap, quiz, progress tracking, auth, and dashboard APIs |
 | Teacher management | MERN app with pagination, position management, and avatar upload |
 | Online learning | Enterprise EduPress platform with Event Sourcing, Real-time SSE, Serverless GPU (Whisper AI), and AI E2E Testing |
+| Wholesale flowers | Responsive catalog, validated quote forms, contact-time preferences, email notifications, and private request storage |
 
 ---
 
@@ -129,6 +134,7 @@ flowchart LR
   B --> F[CineSky]
   B --> G[SMILEE]
   B --> H[CareerPath]
+  B --> I[SHOP HOA HAU]
 ```
 
 ---
@@ -257,6 +263,19 @@ flowchart LR
       <p><a href="https://edupress-lms.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/edupress">Repo</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>SHOP HOA HẬU</h3>
+      <p>Wholesale flower website for a shop at Hồ Thị Kỷ, featuring a color-filtered catalog, editable address suggestions, and scheduled quote requests with email notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-C27A32?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vite-A44A2A?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Node.js-41513A?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <p><a href="https://shop-hoa-hau.vercel.app/">Live</a> | <a href="https://github.com/Hiu11/SHOP-HOA-HAU">Repo</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -266,7 +285,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Projects-19-385A63?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Public%20Projects-20-385A63?style=for-the-badge&logo=github&logoColor=white" alt="Public projects" />
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20%2B%20Fullstack-C27A32?style=for-the-badge&logo=react&logoColor=white" alt="Main focus" />
   <img src="https://img.shields.io/badge/Deployments-Vercel%20Ready-A44A2A?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
@@ -274,7 +293,7 @@ flowchart LR
 <table>
   <tr>
     <td width="25%" align="center">
-      <strong>19</strong><br />
+      <strong>20</strong><br />
       Public Projects
     </td>
     <td width="25%" align="center">
@@ -304,7 +323,7 @@ flowchart LR
     </td>
     <td width="33%" valign="top" align="center">
       <h3>Product</h3>
-      <p>Movie booking, clinic management, career roadmap, quiz flow, teacher management, and learning platform features.</p>
+      <p>Movie booking, clinic management, career roadmap, quiz flow, teacher management, learning platform features, and wholesale flower quote requests.</p>
     </td>
   </tr>
 </table>
