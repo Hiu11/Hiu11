@@ -122,17 +122,17 @@ const hieu = {
 
 ---
 
-## Định hướng phát triển năm 2026
+## 2026 Focus
 
-Tập trung hoàn thiện các dự án đang có: dễ sử dụng, hoạt động ổn định và giải quyết được nhu cầu thực tế.
+Improve existing projects with clearer interfaces, complete user flows, and reliable deployments.
 
-| Mục tiêu | Việc cần làm | Dự án áp dụng |
+| Priority | Next steps | Projects |
 |---|---|---|
-| Giao diện dễ sử dụng | Căn bố cục rõ ràng, hiển thị tốt trên điện thoại và giảm thao tác thừa. | Tất cả dự án |
-| Hoàn thiện chức năng | Kết nối giao diện với máy chủ và dữ liệu; xử lý đầy đủ trạng thái tải, thành công và lỗi. | CineSky, SMILEE, CareerPath |
-| Website chạy ổn định | Kiểm tra cấu hình triển khai, đường dẫn và các luồng chính sau mỗi lần cập nhật. | Các dự án đã đưa lên web |
-| Form báo giá thuận tiện | Gợi ý địa chỉ, báo rõ ô cần sửa, chọn giờ liên hệ và gửi thông báo qua email. | SHOP HOA HẬU |
-| Code dễ bảo trì | Tách từng chức năng thành phần nhỏ, đặt tên dễ hiểu và cập nhật hướng dẫn dự án. | Tất cả dự án |
+| Usable interfaces | Improve mobile layouts, keep forms aligned, and simplify common tasks. | All projects |
+| Complete user flows | Connect pages to APIs and handle loading, success, and error states. | CineSky, SMILEE, CareerPath |
+| Reliable deployments | Check environment settings, links, and core features after each release. | Deployed projects |
+| Practical quote requests | Improve address suggestions, field validation, contact-time selection, and email notifications. | SHOP HOA HẬU |
+| Maintainable code | Keep features modular, use clear names, and update project documentation. | All projects |
 
 ---
 
